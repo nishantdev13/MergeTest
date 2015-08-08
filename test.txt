@@ -1,2 +1,4 @@
-this is sub1 changes
 
+this is master and sub1 changes
+
+Resolve conflict
