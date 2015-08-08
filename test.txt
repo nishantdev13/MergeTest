@@ -1,4 +1,0 @@
-
-this is master and sub1 changes
-
-Resolve conflict
